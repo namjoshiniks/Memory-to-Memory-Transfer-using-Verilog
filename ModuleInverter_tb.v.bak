@@ -1,0 +1,20 @@
+`timescale 1ns/1ns 
+module ModuleInverter_tb();
+
+reg clk;
+reg inputdat;
+wire outdat;
+
+
+initial begin
+   clk = 1;
+   inputdat = 1;
+end
+
+always #5 clk = ~clk;
+always @(posedge clk)
+  inputdat = ~inputdat;
+
+MyInverter MUT(inputdat,outdat);
+
+endmodule

@@ -1,0 +1,149 @@
+C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v {0 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MasterModule
+** Error: C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v(5): In, out, or inout does not appear in port list: DataInA.
+** Error: C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v(9): In, out, or inout does not appear in port list: DataOut.
+** Error: C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v(3): In, out, or inout does not appear in port list: Reset.
+** Error: C:/Modeltech_pe_edu_10.4a/examples/MasterModule.v(11): Register is illegal in left-hand side of continuous assignment
+
+} {4.0 8.0} {}} C:/Modeltech_pe_edu_10.4a/examples/MemoryA.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/MemoryA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MemoryA
+
+Top level modules:
+	MemoryA
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CounterB.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CounterB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CounterB
+
+Top level modules:
+	CounterB
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/MemoryB.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/MemoryB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MemoryB
+
+Top level modules:
+	MemoryB
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Controller.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Subtracter_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Subtracter_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Subtracter_tb
+
+Top level modules:
+	Subtracter_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Comparator_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Comparator_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Comparator_tb
+
+Top level modules:
+	Comparator_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Delay_DFF.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Delay_DFF.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Delay_DFF
+
+Top level modules:
+	Delay_DFF
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Subtracter.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Subtracter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Subtracter
+
+Top level modules:
+	Subtracter
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CounterB_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CounterB_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CounterB_tb
+
+Top level modules:
+	CounterB_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/MemoryA_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/MemoryA_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MemoryA_tb
+
+Top level modules:
+	MemoryA_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Adder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Controller_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Controller_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Controller_tb
+
+Top level modules:
+	Controller_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Delay_DFF_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Delay_DFF_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Delay_DFF_tb
+
+Top level modules:
+	Delay_DFF_tb
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/Mux2_1 .v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/Mux2_1 .v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux2_1
+
+Top level modules:
+	Mux2_1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Adder_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder_tb
+
+Top level modules:
+	Adder_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CounterA_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CounterA_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CounterA_tb
+
+Top level modules:
+	CounterA_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/MemoryB_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/MemoryB_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MemoryB_tb
+
+Top level modules:
+	MemoryB_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Comparator.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Comparator.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Comparator
+
+Top level modules:
+	Comparator
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CounterA.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CounterA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CounterA
+
+Top level modules:
+	CounterA
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Mux2_1_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Mux2_1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux2_1_tb
+
+Top level modules:
+	Mux2_1_tb
+
+} {} {}}

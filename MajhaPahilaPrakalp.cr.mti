@@ -1,0 +1,15 @@
+C:/Modeltech_pe_edu_10.4a/examples/ModuleInverter_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/ModuleInverter_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ModuleInverter_tb
+
+Top level modules:
+	ModuleInverter_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/ModuleInverter.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/ModuleInverter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ModuleInverter
+
+Top level modules:
+	ModuleInverter
+
+} {} {}}
